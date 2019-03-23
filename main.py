@@ -50,3 +50,8 @@ print(type(y))
 y = 4 / 2
 print(type(y))
 print(y)
+
+nazwisko = "Kowalski"
+print(nazwisko[0:2])
+print(nazwisko[-2])
+print(nazwisko[-5:])
